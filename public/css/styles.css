@@ -6,9 +6,11 @@ html {
 body{
   font-family: lucida;
   background-image: -webkit-linear-gradient(111deg, #FAD6A5 50%, #fff 50%);
+  font-size : 16px;
 }
 
 h1{
+  font-weight: 700;
   font-family: Garamond;
 }
 
